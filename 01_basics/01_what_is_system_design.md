@@ -57,5 +57,5 @@ Describes the design of each element mentioned in the High-Level Design of the s
 
 ## 🧾 One-liner
 
-- **HLD** → What to build
+- **HLD** → What to build  
 - **LLD** → How to build
